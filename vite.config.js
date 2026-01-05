@@ -7,6 +7,6 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
 
   server: {
-    allowedHosts: ["flat-kentucky-sunshine-bill.trycloudflare.com"],
+    allowedHosts: [""],
   },
 });
