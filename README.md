@@ -1,4 +1,4 @@
-# 🍍 BloxFruitsCalc
+# BloxFruitsCalc
 
 A clean, fast, and free calculator for **Blox Fruits grinders** who are tired of guessing and just want numbers.
 
@@ -38,4 +38,3 @@ Plan your **levels** and **mastery** efficiently so you can spend less time thin
 
 ---
 
-## 📂 Project Structure
